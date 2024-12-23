@@ -1,0 +1,751 @@
+{"city": "Sochi", "temperature": 18, "condition": "rainy"}
+{"city": "Moscow", "temperature": -23, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 1, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 8, "condition": "snowy"}
+{"city": "Sochi", "temperature": -14, "condition": "sunny"}
+{"city": "Moscow", "temperature": 29, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -11, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -10, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "snowy"}
+{"city": "Sochi", "temperature": 35, "condition": "sunny"}
+{"city": "Sochi", "temperature": -11, "condition": "windy"}
+{"city": "Moscow", "temperature": -5, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 3, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -11, "condition": "windy"}
+{"city": "Sochi", "temperature": 32, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -29, "condition": "rainy"}
+{"city": "Sochi", "temperature": 24, "condition": "rainy"}
+{"city": "Moscow", "temperature": -28, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -24, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 28, "condition": "sunny"}
+{"city": "Moscow", "temperature": -21, "condition": "sunny"}
+{"city": "Sochi", "temperature": -29, "condition": "sunny"}
+{"city": "Moscow", "temperature": 13, "condition": "windy"}
+{"city": "Sochi", "temperature": -3, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 33, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 16, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 1, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 20, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 18, "condition": "windy"}
+{"city": "Sochi", "temperature": 12, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -10, "condition": "windy"}
+{"city": "Sochi", "temperature": -24, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -21, "condition": "sunny"}
+{"city": "Moscow", "temperature": 15, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -21, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 35, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 5, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -9, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -4, "condition": "windy"}
+{"city": "Moscow", "temperature": -17, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 32, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -21, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 0, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 17, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -25, "condition": "snowy"}
+{"city": "Sochi", "temperature": 3, "condition": "windy"}
+{"city": "Moscow", "temperature": 31, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -3, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -23, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 7, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -13, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -21, "condition": "sunny"}
+{"city": "Moscow", "temperature": 6, "condition": "snowy"}
+{"city": "Sochi", "temperature": 14, "condition": "rainy"}
+{"city": "Sochi", "temperature": -13, "condition": "sunny"}
+{"city": "Moscow", "temperature": -10, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 17, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 1, "condition": "snowy"}
+{"city": "Sochi", "temperature": -21, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -15, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 32, "condition": "windy"}
+{"city": "Moscow", "temperature": 7, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -3, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 13, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 7, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 31, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 22, "condition": "windy"}
+{"city": "Sochi", "temperature": 27, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 27, "condition": "sunny"}
+{"city": "Sochi", "temperature": 15, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -16, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -4, "condition": "windy"}
+{"city": "Moscow", "temperature": 26, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -15, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -26, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 9, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -26, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -14, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 0, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -19, "condition": "snowy"}
+{"city": "Sochi", "temperature": 31, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 1, "condition": "windy"}
+{"city": "Sochi", "temperature": -21, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 25, "condition": "rainy"}
+{"city": "Moscow", "temperature": -14, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 25, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 8, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -20, "condition": "rainy"}
+{"city": "Moscow", "temperature": 28, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -9, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 15, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -28, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -11, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -15, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 4, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 31, "condition": "rainy"}
+{"city": "Sochi", "temperature": 12, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -4, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 35, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -4, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 15, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -13, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 3, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -5, "condition": "windy"}
+{"city": "Sochi", "temperature": 30, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 9, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 25, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 3, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 0, "condition": "sunny"}
+{"city": "Moscow", "temperature": -27, "condition": "snowy"}
+{"city": "Sochi", "temperature": 23, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -15, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 28, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 29, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -4, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 21, "condition": "snowy"}
+{"city": "Sochi", "temperature": -26, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 21, "condition": "sunny"}
+{"city": "Sochi", "temperature": 8, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 11, "condition": "snowy"}
+{"city": "Moscow", "temperature": -13, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 34, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 10, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -4, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 21, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -6, "condition": "sunny"}
+{"city": "Moscow", "temperature": -25, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 21, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -4, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -23, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -11, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -6, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -15, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -27, "condition": "snowy"}
+{"city": "Moscow", "temperature": -11, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -10, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -24, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -27, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 4, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 23, "condition": "windy"}
+{"city": "Sochi", "temperature": -7, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 19, "condition": "snowy"}
+{"city": "Sochi", "temperature": -30, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 29, "condition": "sunny"}
+{"city": "Sochi", "temperature": 11, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 33, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -27, "condition": "rainy"}
+{"city": "Moscow", "temperature": 33, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -21, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 10, "condition": "sunny"}
+{"city": "Sochi", "temperature": -4, "condition": "sunny"}
+{"city": "Sochi", "temperature": 8, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -1, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 18, "condition": "sunny"}
+{"city": "Moscow", "temperature": -28, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 18, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -28, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -14, "condition": "windy"}
+{"city": "Sochi", "temperature": 7, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -8, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 8, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -1, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -13, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -18, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 32, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 11, "condition": "windy"}
+{"city": "Sochi", "temperature": 12, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -11, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 28, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 34, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -22, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 12, "condition": "rainy"}
+{"city": "Moscow", "temperature": -21, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 11, "condition": "rainy"}
+{"city": "Sochi", "temperature": 34, "condition": "rainy"}
+{"city": "Sochi", "temperature": -16, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 28, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -9, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -3, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 3, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 30, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 24, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -21, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -30, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 8, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 27, "condition": "sunny"}
+{"city": "Sochi", "temperature": 28, "condition": "sunny"}
+{"city": "Moscow", "temperature": -19, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -22, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -4, "condition": "snowy"}
+{"city": "Sochi", "temperature": -8, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -8, "condition": "windy"}
+{"city": "Moscow", "temperature": 23, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 19, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 19, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -28, "condition": "sunny"}
+{"city": "Sochi", "temperature": 20, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 31, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 11, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 4, "condition": "sunny"}
+{"city": "Moscow", "temperature": -26, "condition": "windy"}
+{"city": "Moscow", "temperature": -12, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 14, "condition": "rainy"}
+{"city": "Sochi", "temperature": -7, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 14, "condition": "windy"}
+{"city": "Moscow", "temperature": -18, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 7, "condition": "windy"}
+{"city": "Moscow", "temperature": 30, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 13, "condition": "sunny"}
+{"city": "Moscow", "temperature": 20, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -8, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 17, "condition": "windy"}
+{"city": "Moscow", "temperature": 24, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 3, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 29, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 1, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 12, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 33, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -14, "condition": "sunny"}
+{"city": "Sochi", "temperature": -27, "condition": "rainy"}
+{"city": "Moscow", "temperature": -29, "condition": "rainy"}
+{"city": "Sochi", "temperature": 19, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -14, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -18, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 15, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 6, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 35, "condition": "rainy"}
+{"city": "Moscow", "temperature": 31, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 26, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 3, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -8, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 28, "condition": "rainy"}
+{"city": "Moscow", "temperature": 31, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -9, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 5, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 25, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 4, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -18, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -10, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 19, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 2, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -17, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 6, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -6, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -8, "condition": "sunny"}
+{"city": "Sochi", "temperature": -14, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 11, "condition": "rainy"}
+{"city": "Moscow", "temperature": 13, "condition": "rainy"}
+{"city": "Moscow", "temperature": -9, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 26, "condition": "snowy"}
+{"city": "Sochi", "temperature": 31, "condition": "sunny"}
+{"city": "Sochi", "temperature": -9, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 8, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 19, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 29, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -9, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -7, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 9, "condition": "windy"}
+{"city": "Sochi", "temperature": -4, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -13, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -1, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -5, "condition": "rainy"}
+{"city": "Sochi", "temperature": 3, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 24, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -1, "condition": "snowy"}
+{"city": "Moscow", "temperature": -5, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 15, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 6, "condition": "rainy"}
+{"city": "Moscow", "temperature": -14, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -4, "condition": "snowy"}
+{"city": "Sochi", "temperature": -22, "condition": "snowy"}
+{"city": "Sochi", "temperature": -8, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 11, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -14, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 2, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 35, "condition": "snowy"}
+{"city": "Moscow", "temperature": -16, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 17, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 9, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -18, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 30, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -29, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 13, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 28, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -14, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -16, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -12, "condition": "snowy"}
+{"city": "Moscow", "temperature": -21, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 35, "condition": "sunny"}
+{"city": "Sochi", "temperature": -25, "condition": "rainy"}
+{"city": "Moscow", "temperature": -26, "condition": "sunny"}
+{"city": "Sochi", "temperature": 9, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 23, "condition": "sunny"}
+{"city": "Sochi", "temperature": 27, "condition": "rainy"}
+{"city": "Sochi", "temperature": -21, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 7, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -5, "condition": "windy"}
+{"city": "Sochi", "temperature": -30, "condition": "rainy"}
+{"city": "Sochi", "temperature": 24, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -1, "condition": "sunny"}
+{"city": "Sochi", "temperature": -8, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 14, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -28, "condition": "sunny"}
+{"city": "Sochi", "temperature": 19, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -28, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -4, "condition": "sunny"}
+{"city": "Moscow", "temperature": -15, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 22, "condition": "windy"}
+{"city": "Sochi", "temperature": -19, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 2, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -23, "condition": "sunny"}
+{"city": "Sochi", "temperature": -4, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -29, "condition": "windy"}
+{"city": "Sochi", "temperature": -16, "condition": "sunny"}
+{"city": "Moscow", "temperature": -19, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 9, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 28, "condition": "snowy"}
+{"city": "Sochi", "temperature": -13, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 25, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -6, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -10, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 6, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -13, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -11, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 17, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -3, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 31, "condition": "rainy"}
+{"city": "Moscow", "temperature": 18, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -4, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -14, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 2, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 14, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -5, "condition": "rainy"}
+{"city": "Moscow", "temperature": -30, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 8, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 4, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 15, "condition": "sunny"}
+{"city": "Sochi", "temperature": 28, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -7, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 19, "condition": "snowy"}
+{"city": "Sochi", "temperature": -3, "condition": "windy"}
+{"city": "Moscow", "temperature": -26, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -13, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -6, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -2, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 2, "condition": "snowy"}
+{"city": "Moscow", "temperature": 32, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -10, "condition": "sunny"}
+{"city": "Moscow", "temperature": -5, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -13, "condition": "rainy"}
+{"city": "Moscow", "temperature": -15, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 28, "condition": "rainy"}
+{"city": "Sochi", "temperature": -2, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -15, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -3, "condition": "sunny"}
+{"city": "Moscow", "temperature": -7, "condition": "snowy"}
+{"city": "Sochi", "temperature": 15, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 23, "condition": "windy"}
+{"city": "Moscow", "temperature": 8, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 18, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -17, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -25, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 2, "condition": "snowy"}
+{"city": "Sochi", "temperature": 21, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 5, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 9, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -4, "condition": "sunny"}
+{"city": "Sochi", "temperature": -18, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -28, "condition": "snowy"}
+{"city": "Sochi", "temperature": -17, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -5, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 28, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -30, "condition": "sunny"}
+{"city": "Moscow", "temperature": 31, "condition": "sunny"}
+{"city": "Moscow", "temperature": -6, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -6, "condition": "windy"}
+{"city": "Moscow", "temperature": 6, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 4, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -14, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -11, "condition": "windy"}
+{"city": "Moscow", "temperature": 25, "condition": "rainy"}
+{"city": "Sochi", "temperature": -14, "condition": "windy"}
+{"city": "Sochi", "temperature": -24, "condition": "snowy"}
+{"city": "Moscow", "temperature": 6, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 0, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 1, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -16, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 4, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -9, "condition": "sunny"}
+{"city": "Moscow", "temperature": -26, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -16, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -14, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 12, "condition": "rainy"}
+{"city": "Moscow", "temperature": 33, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 27, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 6, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 35, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -9, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 32, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -9, "condition": "snowy"}
+{"city": "Moscow", "temperature": 23, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 29, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -22, "condition": "snowy"}
+{"city": "Sochi", "temperature": -10, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -13, "condition": "windy"}
+{"city": "Sochi", "temperature": -24, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 0, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 30, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -14, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -13, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 11, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 23, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 6, "condition": "snowy"}
+{"city": "Moscow", "temperature": 6, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -10, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -11, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -20, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 28, "condition": "rainy"}
+{"city": "Sochi", "temperature": 1, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 12, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 7, "condition": "windy"}
+{"city": "Sochi", "temperature": -20, "condition": "sunny"}
+{"city": "Sochi", "temperature": 21, "condition": "rainy"}
+{"city": "Sochi", "temperature": 19, "condition": "sunny"}
+{"city": "Sochi", "temperature": -19, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -13, "condition": "snowy"}
+{"city": "Moscow", "temperature": 8, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 16, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -19, "condition": "sunny"}
+{"city": "Sochi", "temperature": -17, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 21, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -3, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -4, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -28, "condition": "sunny"}
+{"city": "Sochi", "temperature": -28, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -24, "condition": "snowy"}
+{"city": "Sochi", "temperature": 11, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 26, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 10, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 5, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 16, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 7, "condition": "windy"}
+{"city": "Moscow", "temperature": -16, "condition": "sunny"}
+{"city": "Moscow", "temperature": -6, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -6, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 31, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 2, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 25, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 14, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -21, "condition": "windy"}
+{"city": "Sochi", "temperature": 22, "condition": "rainy"}
+{"city": "Sochi", "temperature": -2, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 31, "condition": "sunny"}
+{"city": "Moscow", "temperature": -3, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 9, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -16, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 35, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -20, "condition": "rainy"}
+{"city": "Moscow", "temperature": -1, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 5, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 18, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -5, "condition": "windy"}
+{"city": "Sochi", "temperature": -17, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 4, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -11, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -12, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 3, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -14, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -24, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -1, "condition": "sunny"}
+{"city": "Moscow", "temperature": 24, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 32, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -25, "condition": "rainy"}
+{"city": "Moscow", "temperature": -16, "condition": "rainy"}
+{"city": "Moscow", "temperature": -30, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 34, "condition": "sunny"}
+{"city": "Moscow", "temperature": -29, "condition": "snowy"}
+{"city": "Sochi", "temperature": -2, "condition": "windy"}
+{"city": "Sochi", "temperature": 0, "condition": "snowy"}
+{"city": "Moscow", "temperature": 11, "condition": "sunny"}
+{"city": "Moscow", "temperature": -14, "condition": "snowy"}
+{"city": "Sochi", "temperature": 5, "condition": "snowy"}
+{"city": "Moscow", "temperature": 8, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -29, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 25, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 1, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -15, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 27, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -3, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -6, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 1, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 21, "condition": "windy"}
+{"city": "Sochi", "temperature": 0, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 1, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 0, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 26, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 0, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -20, "condition": "windy"}
+{"city": "Moscow", "temperature": -2, "condition": "snowy"}
+{"city": "Sochi", "temperature": 18, "condition": "sunny"}
+{"city": "Sochi", "temperature": 26, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -7, "condition": "windy"}
+{"city": "Sochi", "temperature": 24, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -29, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 35, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 26, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 30, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -30, "condition": "snowy"}
+{"city": "Moscow", "temperature": -9, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 4, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 13, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -16, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -15, "condition": "snowy"}
+{"city": "Sochi", "temperature": 29, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -5, "condition": "rainy"}
+{"city": "Sochi", "temperature": 16, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 26, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": -1, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -8, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -11, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -27, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 14, "condition": "windy"}
+{"city": "Sochi", "temperature": 5, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -13, "condition": "snowy"}
+{"city": "Sochi", "temperature": 9, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 13, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -27, "condition": "snowy"}
+{"city": "Sochi", "temperature": -10, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 35, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 35, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -28, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -25, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 18, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 25, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -13, "condition": "windy"}
+{"city": "Moscow", "temperature": -11, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -14, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 15, "condition": "snowy"}
+{"city": "Moscow", "temperature": -3, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 22, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -26, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 34, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -23, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -19, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 31, "condition": "windy"}
+{"city": "Moscow", "temperature": 0, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -23, "condition": "windy"}
+{"city": "Moscow", "temperature": 3, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 22, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 25, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -17, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 25, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 21, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 18, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 0, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 22, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 0, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -7, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 27, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -30, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -30, "condition": "sunny"}
+{"city": "Moscow", "temperature": -3, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 13, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -25, "condition": "windy"}
+{"city": "Sochi", "temperature": 19, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -13, "condition": "rainy"}
+{"city": "Sochi", "temperature": 16, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -6, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -12, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -22, "condition": "rainy"}
+{"city": "Sochi", "temperature": 14, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -21, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -25, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 29, "condition": "rainy"}
+{"city": "Moscow", "temperature": 8, "condition": "rainy"}
+{"city": "Sochi", "temperature": 6, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 26, "condition": "snowy"}
+{"city": "Sochi", "temperature": -6, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 1, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 2, "condition": "snowy"}
+{"city": "Moscow", "temperature": 33, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 19, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -6, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 17, "condition": "sunny"}
+{"city": "Sochi", "temperature": 22, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -1, "condition": "rainy"}
+{"city": "Moscow", "temperature": 34, "condition": "snowy"}
+{"city": "Moscow", "temperature": 28, "condition": "snowy"}
+{"city": "Sochi", "temperature": 4, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 13, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": -5, "condition": "rainy"}
+{"city": "Sochi", "temperature": -17, "condition": "snowy"}
+{"city": "Sochi", "temperature": -4, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -9, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 14, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 4, "condition": "sunny"}
+{"city": "Moscow", "temperature": 14, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -4, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -2, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -13, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -25, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -12, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 0, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 26, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -15, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 4, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 25, "condition": "rainy"}
+{"city": "Sochi", "temperature": -29, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -1, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -6, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -16, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 35, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 18, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -10, "condition": "windy"}
+{"city": "Moscow", "temperature": -5, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -26, "condition": "sunny"}
+{"city": "Sochi", "temperature": -29, "condition": "snowy"}
+{"city": "Moscow", "temperature": 22, "condition": "sunny"}
+{"city": "Sochi", "temperature": 4, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -30, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 32, "condition": "snowy"}
+{"city": "Moscow", "temperature": -9, "condition": "windy"}
+{"city": "Moscow", "temperature": 34, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -9, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -17, "condition": "windy"}
+{"city": "Sochi", "temperature": -1, "condition": "cloudy"}
+{"city": "Moscow", "temperature": 30, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -14, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 6, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -20, "condition": "sunny"}
+{"city": "Sochi", "temperature": 12, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -12, "condition": "snowy"}
+{"city": "Sochi", "temperature": -21, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 0, "condition": "windy"}
+{"city": "Moscow", "temperature": 34, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 31, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 25, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 34, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -7, "condition": "rainy"}
+{"city": "Moscow", "temperature": -4, "condition": "rainy"}
+{"city": "Moscow", "temperature": 25, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -11, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": -7, "condition": "sunny"}
+{"city": "Sochi", "temperature": -26, "condition": "rainy"}
+{"city": "Moscow", "temperature": -3, "condition": "windy"}
+{"city": "Moscow", "temperature": 2, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 16, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 15, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 25, "condition": "rainy"}
+{"city": "Moscow", "temperature": -28, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -26, "condition": "snowy"}
+{"city": "Moscow", "temperature": 5, "condition": "windy"}
+{"city": "Sochi", "temperature": -2, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -11, "condition": "windy"}
+{"city": "Sochi", "temperature": 11, "condition": "rainy"}
+{"city": "Moscow", "temperature": -24, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -18, "condition": "windy"}
+{"city": "Sochi", "temperature": -9, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": -21, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -6, "condition": "cloudy"}
+{"city": "Sochi", "temperature": -9, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": 7, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 18, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -28, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -8, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -29, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 19, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 32, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -29, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 5, "condition": "snowy"}
+{"city": "Moscow", "temperature": 22, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": -21, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 1, "condition": "snowy"}
+{"city": "Sochi", "temperature": -17, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 28, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -16, "condition": "rainy"}
+{"city": "Sochi", "temperature": -8, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -28, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -3, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 19, "condition": "windy"}
+{"city": "Saint Petersburg", "temperature": -22, "condition": "windy"}
+{"city": "Sochi", "temperature": 28, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -26, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 32, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": 9, "condition": "rainy"}
+{"city": "Moscow", "temperature": -1, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": 6, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 35, "condition": "sunny"}
+{"city": "Sochi", "temperature": -23, "condition": "sunny"}
+{"city": "Moscow", "temperature": -23, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": -4, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 8, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 35, "condition": "rainy"}
+{"city": "Moscow", "temperature": 16, "condition": "snowy"}
+{"city": "Vladivostok", "temperature": -18, "condition": "rainy"}
+{"city": "Moscow", "temperature": -2, "condition": "windy"}
+{"city": "Vladivostok", "temperature": 30, "condition": "rainy"}
+{"city": "Saint Petersburg", "temperature": -11, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": -22, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -25, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 8, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 4, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -12, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": 33, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 24, "condition": "snowy"}
+{"city": "Krasnoyarsk", "temperature": 12, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -3, "condition": "snowy"}
+{"city": "Sochi", "temperature": 9, "condition": "sunny"}
+{"city": "Saint Petersburg", "temperature": 32, "condition": "sunny"}
+{"city": "Sochi", "temperature": 1, "condition": "rainy"}
+{"city": "Krasnoyarsk", "temperature": 33, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": 17, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 16, "condition": "windy"}
+{"city": "Krasnoyarsk", "temperature": -3, "condition": "sunny"}
+{"city": "Sochi", "temperature": 22, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": -9, "condition": "rainy"}
+{"city": "Sochi", "temperature": 19, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 17, "condition": "windy"}
+{"city": "Moscow", "temperature": -11, "condition": "snowy"}
+{"city": "Moscow", "temperature": 4, "condition": "cloudy"}
+{"city": "Sochi", "temperature": 6, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": -7, "condition": "sunny"}
+{"city": "Sochi", "temperature": -6, "condition": "snowy"}
+{"city": "Saint Petersburg", "temperature": 15, "condition": "sunny"}
+{"city": "Moscow", "temperature": 21, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 2, "condition": "sunny"}
+{"city": "Moscow", "temperature": -19, "condition": "sunny"}
+{"city": "Sochi", "temperature": -10, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 28, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 20, "condition": "cloudy"}
+{"city": "Moscow", "temperature": -15, "condition": "windy"}
+{"city": "Vladivostok", "temperature": -13, "condition": "rainy"}
+{"city": "Vladivostok", "temperature": 27, "condition": "rainy"}
+{"city": "Sochi", "temperature": 12, "condition": "cloudy"}
+{"city": "Krasnoyarsk", "temperature": -22, "condition": "rainy"}
+{"city": "Sochi", "temperature": -4, "condition": "sunny"}
+{"city": "Krasnoyarsk", "temperature": 19, "condition": "snowy"}
+{"city": "Moscow", "temperature": -8, "condition": "windy"}
+{"city": "Sochi", "temperature": -27, "condition": "sunny"}
+{"city": "Vladivostok", "temperature": 8, "condition": "snowy"}
+{"city": "Moscow", "temperature": -26, "condition": "cloudy"}
+{"city": "Saint Petersburg", "temperature": 9, "condition": "snowy"}
+{"city": "Sochi", "temperature": 14, "condition": "cloudy"}
+{"city": "Vladivostok", "temperature": 11, "condition": "windy"}
