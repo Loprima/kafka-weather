@@ -10,4 +10,4 @@
 
 - Запустить скрипт consumer.py
 
-- Результаты в weather.json
+- Результаты в weather_data.json
